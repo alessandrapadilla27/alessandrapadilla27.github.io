@@ -1,0 +1,27 @@
+#acercade{
+    display: inline-block;
+    text-align: right;
+    color: firebrick;
+    width: 35%;
+    margin: auto;
+    background-color: cornsilk;
+    font-size: 30px;
+}
+#proposito{
+    display: inline-block;
+    text-align:center;
+    background-color: beige;
+    width: 32%;
+    margin-top: 6px;
+    font-size: 25px;
+}
+#logo1{
+    display: inline-block;
+    float: left;
+    width: 15%;
+    margin-top: 6px;
+    background-color:burlywood;
+    padding: 11%;
+    border-radius: 34px;
+    
+}
